@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalcKotlin part1</string>
+    <string name="rad">RAD</string>
+    <string name="clr">CLR</string>
+    <string name="del">DEL</string>
+    <string name="sin">sin</string>
+    <string name="ln">ln</string>
+    <string name="cos">cos</string>
+    <string name="log">log</string>
+    <string name="tan">tan</string>
+</resources>
